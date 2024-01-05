@@ -1,0 +1,20 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid orange;
+    border-radius: 5px;
+    background-color: aqua;
+}
+div{
+    display: grid;
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: aqua;
+}
+.wrapper2{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    border: 2px solid orange ;
+    border-radius: 5px;
+    background-color: aqua;
+}
